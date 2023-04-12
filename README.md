@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmaierhofer
-- 👀 I’m interested in Domain Driven Design and Microservices
-- 🌱 I’m currently learning how to migrate a Monolith into bite sized pieces
-- 💞️ I’m looking to collaborate on anything backend related
+- 👀 I’m a passionate Backend Software Engineer
+- 🌱 I love Java and all the technologies around it
+- 💞️ I’m looking to collaborate on anything that changes the world to the better!
 - 📫 How to reach me mmaierhofer@outlook.de
 
 <!---
